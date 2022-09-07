@@ -1,0 +1,53 @@
+.create-listing-img-upload {
+    cursor: pointer;
+}
+
+.create-listing {
+    padding-top: 40px;
+
+}
+
+.create-listing-form-group{
+    margin-left: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.upload-icon{
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    border: 3px solid rgb(171, 77, 174);
+    margin-top: 22px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: purple;
+    font-size: 27px;
+}
+.create-listing-desc {
+    margin-top: 20px;
+    height: 260px;
+    width: 50vw;
+    background-color: beige;
+}
+
+.create-listing-button {
+    margin: 15px 75px 25px 120px;
+    padding: auto;
+    width: 10vw;
+    height: 40px;
+    cursor: pointer;
+    background-color: rgb(88, 10, 223);
+    border: none;
+    color: azure;
+    font-weight: bold;
+}
+
+.title {
+    margin-top: 20px;
+    height: 33px;
+    width: 50vw;
+    background-color: rgb(190, 225, 254);
+}
